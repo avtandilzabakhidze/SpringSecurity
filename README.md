@@ -1,6 +1,6 @@
 # Spring Security Project
 
-This project demonstrates the implementation of Spring Security for securing a RESTful API with role-based access control (RBAC). It includes features such as authentication, authorization, and password encryption.
+This project demonstrates the implementation of Spring Security for securing a RESTful API with role-based access control (RBAC). It includes features such as authentication, authorization and password encryption.
 
 ## Project Structure
 
